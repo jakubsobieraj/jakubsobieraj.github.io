@@ -1,8 +1,6 @@
 # marconelele.github.io
-portfolio
 
-on my github, you can find various javascript projects such as:
+Portfolio
 
-Calculator app
-Tic Tac Toe game
-Pizza shop website
+Final assessment for Pitman Training's Software Development bootcamp year 1.
+
