@@ -9,13 +9,13 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-            Hi, I'm Jakub Sobieraj.
+            I'm Jakub Sobieraj.
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I’m a 2nd year BSc Computer Science student at the University of Dundee which works at Amazon, where I mostly benchmark used GPU's and graphic cards.<br />
+            I’m a 2nd year BSc Computer Science student at the University of Dundee which works at Amazon, where I mostly benchmark used CPU's and graphic cards.<br />
             <br />I have completed the Amazon's Advanced Software & Web Developer Diploma with a distinction at Pitman Training in Edinburgh while currently undergoing the Amazon Data Analytics programme with Correlation One.<br />
-            <br />My plan for the foreseeable future is to finish an internship/placement and become a software developer. Scroll down below to find out more about what I do.  
+            <br />My plan for the foreseeable future is to finish my degree and successfully complete an internship/placement and become a software developer. Scroll down below to find out more about what I do.  
           </p>
           <div className="flex justify-center space-x-4">
             <a
