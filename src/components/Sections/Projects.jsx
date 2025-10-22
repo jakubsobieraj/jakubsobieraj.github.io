@@ -33,7 +33,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/asya-seag/Final_Group_Project_Data_Structures"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -48,7 +48,7 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Java Scribble console game </h3>
+              <h3 className="text-xl font-bold mb-2">Java Scribble console game</h3>
               <p className="text-gray-400 mb-4">
                 Console game.
               </p>
@@ -70,7 +70,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/jakubsobieraj/UoD-Scrabble-console-game"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -110,7 +110,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/team9webdev/team9webdev.github.io"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →

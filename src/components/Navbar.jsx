@@ -22,28 +22,27 @@ useEffect(() => {
                 </div>
 
                 <div className="hidden md:flex items-center space-x-8">
-                    <a href="#home" className="tex-gray-300 hove:text-white transition-colors">
+                    <a href="#home" className="text-gray-300 hover:text-white transition-colors">
                         {" "}
                         Home{" "}
                     </a>
-                    <a href="#about" className="tex-gray-300 hove:text-white transition-colors">
+                    <a href="#about" className="text-gray-300 hover:text-white transition-colors">
                         {" "}
                         About{" "}
                     </a>
-                    <a href="#projects" className="tex-gray-300 hove:text-white transition-colors">
+                    <a href="#projects" className="text-gray-300 hover:text-white transition-colors">
                         {" "}
                         Projects{" "}
                     </a>
-                    <a href="#contact" className="tex-gray-300 hove:text-white transition-colors">
+                    <a href="#contact" className="text-gray-300 hover:text-white transition-colors">
                         {" "}
                         Contact{" "}
                     </a>
-                    <a href="https://www.linkedin.com/in/jakubsobieraj1/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors"
->
+                    <a href="https://www.linkedin.com/in/jakubsobieraj1/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors">
                         {" "}
                         LinkedIn{" "}
                     </a>
-                    <a href="#contact" className="tex-gray-300 hove:text-white transition-colors">
+                    <a href="cv.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-300 hove:text-white transition-colors">
                         {" "}
                         CV{" "}
                     </a>
