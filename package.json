@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "emailjs-com": "^3.2.0",
+    "git": "^0.1.5",
+    "tailwindcss": "^4.1.14"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
