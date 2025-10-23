@@ -8,9 +8,10 @@ export const About = () => {
     "TailwindCSS",
     "GitHub",
     "Version control",
+    "Git",
   ];
 
-  const backendSkills = ["Java", "Javascript", "C++", "C#", "SQL"];
+  const backendSkills = ["Java", "Javascript", "C++", "C#", "SQL", "Python", "C"];
 
   return (
     <section
@@ -83,7 +84,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    FC Associate at Amazon (2018 - Present){" "}
+                    <strong>FC Associate </strong> - Amazon (2018 - Present){" "}
                   </h4>
                   <p>
                   My daily tasks include conducting diagnostic testing and performance benchmarking of computer components such as graphic cards and CPUs to ensure quality and compliance with technical standards, strengthening my analytical and problem-solving skills.<br/>

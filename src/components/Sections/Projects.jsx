@@ -16,10 +16,10 @@ export const Projects = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-2"> Social Media App</h3>
               <p className="text-gray-400 mb-4">
-                java swing app
+                Java swing application that mimics basic social media functions such as posting, liking and commenting. Using various data structures such as stacks, linked lists and queue users can create accounts, make posts and add people to their friends list.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Java", "Java.swing", "Data Structures", "Team project"].map((tech, key) => (
+                {["Java", "Java.swing", "Data Structures", "Team collaboration", "User authentication", ].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 
@@ -56,10 +56,10 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Java Scribble console game</h3>
               <p className="text-gray-400 mb-4">
-                Console game.
+                A final project from first-year CS from the Introduction to Software Development module, Scribble is a command-prompt based word game in Java. Users can save and load their games and the game features various word validation techniques while also integrating a dictionary.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Java", "Assessment", "Load/Save", "Interactive"].map((tech, key) => (
+                {["Java", "Assessment", "Load/Save", "Word validation", "Dictionary integration"].map((tech, key) => (
                   <span
                     key={key}
                     className="
@@ -101,7 +101,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Front-end group project</h3>
               <p className="text-gray-400 mb-4">
-                Team work with focus on github
+                The Flannan Isles Lighthouse is a front-end group project developed using Bootstrap. The project was heavily focused on collaboration and version control using GitHub issues to manage tasks and track progress within a 4 person team.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Bootstrap", "Version control", "Group project", "GitHub issues"].map(
@@ -130,7 +130,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/team9webdev/team9webdev.github.io"
+                  href="https://team9webdev.github.io"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -148,7 +148,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">First portfolio</h3>
               <p className="text-gray-400 mb-4">
-                Done as part of 1st year Pitman Training 
+                My first portfolio website created using HTML and CSS as part of the Pitman Training's final 1st year assessment. This project helped me understand the basics of web design and development.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Bootstrap", "CSS", "HTML", "Portfolio"].map((tech, key) => (
