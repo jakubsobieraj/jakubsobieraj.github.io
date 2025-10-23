@@ -31,6 +31,12 @@ export const Projects = () => {
                 ))}
               </div>
 
+              <img
+                src="socialmedia.png"
+                alt="Social Media App screenshot"
+                className="rounded-lg mb-4 border border-white/10"
+              />
+
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/asya-seag/Final_Group_Project_Data_Structures"
@@ -68,6 +74,13 @@ export const Projects = () => {
                   </span>
                 ))}
               </div>
+
+              <img
+                src="scrabble.png"
+                alt="Scrabble console game screenshot"
+                className="rounded-lg mb-4 border border-white/10"
+              />
+
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/jakubsobieraj/UoD-Scrabble-console-game"
@@ -108,6 +121,13 @@ export const Projects = () => {
                   )
                 )}
               </div>
+
+              <img
+                src="team9.jpg"
+                alt="Team9webdev screenshot"
+                className="rounded-lg mb-4 border border-white/10"
+              />
+
               <div className="flex justify-between items-center">
                 <a
                   href="https://github.com/team9webdev/team9webdev.github.io"
@@ -146,6 +166,13 @@ export const Projects = () => {
                   </span>
                 ))}
               </div>
+
+              <img
+                src="firstpfolio.png"
+                alt="Portfolio photo"
+                className="rounded-lg mb-4 border border-white/10"
+              />
+
               <div className="flex justify-between items-center ">
                 <a
                   href="#"
