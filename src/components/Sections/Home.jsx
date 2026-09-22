@@ -13,7 +13,7 @@ export const Home = () => {
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I’m a 2nd year BSc Computer Science student at the University of Dundee which works at Amazon, where I mostly benchmark used CPU's and graphic cards.<br />
+            I’m a 3rd year BSc Computer Science (Data Science and AI) student at the University of Dundee which works at Amazon, where I mostly benchmark used CPU's and graphic cards.<br />
             <br />I have completed the Amazon's Advanced Software & Web Developer Diploma with a distinction at Pitman Training in Edinburgh while currently undergoing the Amazon Data Analytics programme with Correlation One.<br />
             <br />My plan for the foreseeable future is to finish my degree and successfully complete an internship/placement and become a software developer. Scroll down below to find out more about what I do.  
           </p>
