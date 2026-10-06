@@ -18,14 +18,17 @@ export const Home = () => {
             benchmark used CPU's and graphic cards.
             <br />
             <br />I have completed the Amazon's Advanced Software & Web
-            Developer Diploma with a distinction at Pitman Training in Edinburgh
-            while currently undergoing the Amazon Data Analytics programme with
+            Developer Diploma with a distinction at Pitman Training in Edinburgh,
+            as well as the Amazon Data Analytics programme with
             Correlation One.
             <br />
             <br />
-            My plan for the foreseeable future is to finish my degree and
-            successfully complete an internship/placement and become a software
-            developer. Scroll down below to find out more about what I do.
+            I am currently focused on completing my degree and gaining 
+            valuable industry experience through an internship or placement. 
+            With a strong interest in both software development and data science, 
+            I am keen to explore opportunities where I can apply my technical skills, 
+            continue learning, and build a career in either of these fields. 
+            Scroll down below to find out more about what I do.
           </p>
           <div className="flex justify-center space-x-4">
             <a
